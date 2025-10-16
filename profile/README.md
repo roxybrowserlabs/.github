@@ -1,71 +1,44 @@
 ## RoxyBrowser – Premier Antidetect Browser
 
-Elevate your web operations with a light, secure, and scalable antidetect browser engineered for multi‑account workflows, privacy, and automation.
+Manage all your browser profiles, proxies, and automation workflows in one powerful antidetect browser, giving you total privacy, streamlined workflows, and full control.
 
-### Social
+### 🚀 Welcome to RoxyBrowser
+
+We provide a robust product engineered for teams and individuals who manage multiple online identities securely — whether for **e-commerce, affiliate marketing, crypto trading, SEO, or automation**.
+With our advanced fingerprint technology, workspace collaboration, and integrated proxy management, RoxyBrowser empowers professionals to work safely, efficiently and undetectably.
+
+### 🌐 Join Our Community
+Stay connected with the RoxyBrowser to:
+- Be the first to learn about the latest features, updates, and promotions
+- Get timely online technical support
+- Share your feedback and improvement ideas
+
+Follow us here 👇
+
+[![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?logo=telegram&logoColor=white)](https://t.me/)
 [![X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/RoxyBrowser)
 [![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?logo=tiktok)](https://tiktok.com/@roxybrowser)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/roxybrowser/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/RoxyBrowser)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@RoxyBrowser)
-[![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?logo=telegram&logoColor=white)](https://t.me/)
 
-### Why RoxyBrowser
-- Strong privacy with isolated browser profiles and advanced fingerprint protection
-- Consistent performance with stable, real‑world‑like environments
-- Seamless teamwork and automation via APIs and team spaces
+### ⚙ Core Functions of Roxy
+- **Private Browsing:** Protect your online privacy with deep fingerprint customization and encrypted environments.
+- **Multi‑Accounting:** Create isolated browser profiles with real, unique fingerprints to bypass all restrictions safely.
+- **Team Work:** Collaborate through team workspaces with secure role-based access, transparent activity logs, and strict data isolation.
+- **Automate & API flow:** Seamlessly integrate with Selenium, Puppeteer, or custom scripts to automate multi-account workflows.
+- **MCP Support:** Automate everything in RoxyBrower! With MCP protocol integration, RoxyBrowser now is **the world’s first antidetect browser with AI control capabilities.**
 
-### Use Cases
-- SEO: Optimize campaigns with secure multi‑account browsing
-- Advertising: Manage paid ads safely with isolated profiles
-- Social Marketing: Run multiple social accounts without detection risks
-- E‑Commerce: Operate stores with unique browser identities
-- Affiliate Marketing: Scale campaigns with undetectable profiles
-- Web Scraping: Collect data while avoiding IP blocks
-- Crypto Trading: Trade securely across multiple exchange accounts
+Visit [roxybrowser.com](https://www.roxybrowser.com/) for more details or download the latest version.
 
-### Core Functions
-- Change IP Address: Switch networks to bypass restrictions
-- Private Browsing: Keep activity private with minimal traces
-- Multi‑Accounting: Create unique, isolated environments per account
-- IP Address Lookup: Verify your network details
-
-### Platform and System
-- Windows support with a lightweight, responsive core
-
-### Key Capabilities
-- Profile Templates: One‑click, consistent profile creation
-- Proxy Panel: Manage IPv4/IPv6 proxies, including SOCKS5
-- Account Hub: Configure and assign accounts to isolated, authentic environments
-- Window Sync: Mirror actions across windows to reduce repetitive work
-- API Flow: Automate complex tasks through powerful API integration
-- Team Space: Create projects, invite members, and manage roles flexibly
-
-### Security and Anonymity
-- Account Protection: Extensive fingerprint parameters to simulate real environments
-- Encryption: End‑to‑end tunnels with AES‑256, RSA, and SHA‑512
-- Industry‑leading Anonymity: Designed to bypass major detection tools such as Fingerprint and CreepJS
-
-### Getting Started
-1. Download and install RoxyBrowser on Windows.
-2. Create your first profile (or use a template for consistency).
-3. Add a proxy in the Proxy Panel (IPv4/IPv6, e.g., SOCKS5).
-4. Launch the profile to begin secure, isolated browsing.
-5. Optional: Integrate automation via the API to scale workflows.
-
-### Plans and Trials
-- Free forever plan with 5 profiles to start
-- 7‑day premium trial of advanced features
-
-### Support
-- Online support via live chat and Telegram
+### 📚 Documentation & Tutorials
+Explore tutorials, use cases, and real-world workflows to make the most of RoxyBrowser in your projects.
+- User Guide: https://faq.roxybrowser.com/
+- Official Blog: https://roxybrowser.com/blog
+- YouTube: https://www.youtube.com/@RoxyBrowser
 - Email: support@RoxyBrowser.com
 
-### Resources
-- Blog, FAQs, and User Guide for tips, tutorials, and updates
+### 🧩 About RoxyBrowserLabs
+RoxyBrowserLabs is the experimental and technical area of RoxyBrowser, sharing tools, scripts, and integrations for developers and power users. Here, you’ll find open resources, automation templates, and technical documentation that extend RoxyBrowser’s capabilities.
 
-### Legal
-- Terms of Use and Privacy Policy apply
-
-### Call to Action
-Start anonymous, high‑efficiency multi‑account operations today with RoxyBrowser.
+We welcome feedback, discussions, and contributions to improve the experience for everyone. Let’s build a safer, smarter web together. 🤝
